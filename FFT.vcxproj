@@ -142,9 +142,11 @@
     <ClCompile Include="FFT.cpp" />
     <ClCompile Include="fft_fn.cpp" />
     <ClCompile Include="seed_test_signal.cpp" />
+    <ClCompile Include="freq_classifier.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fft_fn.h" />
+    <ClInclude Include="freq_classifier.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

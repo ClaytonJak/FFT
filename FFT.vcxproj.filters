@@ -24,9 +24,15 @@
     <ClCompile Include="seed_test_signal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="freq_classifier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fft_fn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="freq_classifier.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

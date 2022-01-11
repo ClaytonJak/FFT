@@ -4,6 +4,8 @@
 #include <cmath>
 
 const double pi = 3.141592653589793238460;
+const int N = 1024; //sample size
+const double sample_rate = 10000.; //sampling rate in Hz
 
 typedef std::complex<double> Complex;
 typedef std::valarray<Complex> CArray;
