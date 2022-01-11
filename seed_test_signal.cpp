@@ -7,7 +7,7 @@ CArray seed_test_signal() { //sample rate is measured in Hz
     const int w_n2 = 500;
     const int w_n3 = 1200;
     const float A_n1 = 10.0;
-    const float A_n2 = 3.5;
+    const float A_n2 = 3.6;
     const float A_n3 = 0.8;
     // analog time signal is cos(w_n1*2*pi*t)+0.7*cos(w_n2*2*pi*t)
 
